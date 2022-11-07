@@ -12,7 +12,7 @@ class PDFController extends Controller
     public function index()
     {
         $data["email"] = "ranamuhammadyaar9@gmail.com";
-        $data["title"] = "From ItSolutionStuff.com";
+        $data["title"] = "From Muhammad Yar";
         $data["body"] = "This is Demo";
 
         $pdf = PDF::loadView('emails.myTestMail',$data);

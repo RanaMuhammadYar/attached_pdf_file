@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ItsolutionStuff.com</title>
+    <title>Muhammad Yar</title>
 </head>
 <body>
     <h1>{{ $title }}</h1>
